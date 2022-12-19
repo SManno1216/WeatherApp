@@ -2,7 +2,6 @@
 //  LocationDetailViewController.swift
 //  WeatherApp_Final
 //
-//  Created by Steven  Manno
 //
 
 import UIKit
