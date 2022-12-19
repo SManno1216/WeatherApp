@@ -2,7 +2,6 @@
 //  WeatherLocation.swift
 //  WeatherApp_Final
 //
-//  Created by Steven Manno 
 //
 
 import Foundation
