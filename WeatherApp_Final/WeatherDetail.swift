@@ -2,7 +2,6 @@
 //  WeatherDetail.swift
 //  WeatherApp_Final
 //
-//  Created by Steven  Manno on 12/17/22.
 //
 
 import Foundation
