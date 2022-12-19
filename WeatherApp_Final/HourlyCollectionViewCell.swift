@@ -2,7 +2,6 @@
 //  HourlyCollectionViewCell.swift
 //  WeatherApp_Final
 //
-//  Created by Steven  Manno on 12/18/22.
 //
 
 import UIKit
