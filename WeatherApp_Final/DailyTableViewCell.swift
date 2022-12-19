@@ -2,7 +2,7 @@
 //  DailyTableViewCell.swift
 //  WeatherApp_Final
 //
-//  Created by Steven  Manno on 12/17/22.
+//  Created by Steven  Manno 
 //
 
 import UIKit
